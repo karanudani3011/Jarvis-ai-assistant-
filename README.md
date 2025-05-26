@@ -1,4 +1,6 @@
 Jarvis - AI Voice Assistant
+
+
 Jarvis is a powerful AI voice assistant designed to help you perform various tasks using simple voice commands. Jarvis can send WhatsApp messages, open applications installed on your system or online websites, and keep track of your command history with a built-in SQLite database. The frontend interface is designed with HTML, CSS, and JavaScript to provide a user-friendly experience.
 
 Features
@@ -118,8 +120,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or suggestions, reach out at:
 
-Email: your.email@example.com
+Email: karanudani30@example.com
 
-GitHub: github.com/yourusername
 
 Enjoy your AI assistant experience with Jarvis! 🚀
